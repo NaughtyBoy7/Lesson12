@@ -49,7 +49,7 @@ public:
 	//bool !=
 	bool operator != (const Enemy& compareTo);
 
-	//表现一下
+	//表现一下ssssss
 	void Display() {
 		cout << "生命值是 多少吨 " << health << endl;
 	}
